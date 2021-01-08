@@ -1,4 +1,4 @@
-# Romil-Lodaya.github.io
+# Romil Lodaya
 
 ```py
 import numpy as np
